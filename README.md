@@ -68,11 +68,11 @@ def recovery(dur):
 ### **`Applying 90 RF pulse to magntization vector`**
 ![](OUTPUT/RF90.gif)
 ### **`Describing Trajectory of appling the RF pulse`**
-![](OUTPUT/trajectory90.PNG)
+![](OUTPUT/trajectory90.png)
 ### **`Recovery or relaxation state for the magntization vector from X-Y to Z plane`**
 ![](OUTPUT/recovery90.gif)
 ### **`Describing Trajectory of relaxation from X-Y to Z plane`**
-![](OUTPUT/Rtrajectory90.PNG)
+![](OUTPUT/Rtrajectory90.png)
 ### **`The magnitude of image after applying Fourir transform`**
 ![](OUTPUT/K_mag.PNG)
 ### **`The phase of image after applying Fourir transform`**

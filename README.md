@@ -68,25 +68,25 @@ def recovery(dur):
 ### **`Applying 90 RF pulse to magntization vector`**
 ![](OUTPUT/RF90.gif)
 ### **`Describing Trajectory of appling the RF pulse`**
-![](OUTPUT/trajectory90.png)
+![](OUTPUT/trajectory90.PNG)
 ### **`Recovery or relaxation state for the magntization vector from X-Y to Z plane`**
 ![](OUTPUT/recovery90.gif)
 ### **`Describing Trajectory of relaxation from X-Y to Z plane`**
-![](OUTPUT/Rtrajectory90.png)
+![](OUTPUT/Rtrajectory90.PNG)
 ### **`The magnitude of image after applying Fourir transform`**
-![](OUTPUT/K_mag.png)
+![](OUTPUT/K_mag.PNG)
 ### **`The phase of image after applying Fourir transform`**
-![](OUTPUT/K_phase.png)
+![](OUTPUT/K_phase.PNG)
 ### **`The non uniformaty of magnatic field at Z-plane the equals (0,0,Bz) without any gradient applied`**
-![](OUTPUT/no_gradient.png)
+![](OUTPUT/no_gradient.PNG)
 ### **`The slice selection applied`**
-![](OUTPUT/slice_encoding.png)
+![](OUTPUT/slice_encoding.PNG)
 ### **`The  phase encoding applied`**
-![](OUTPUT/phase_encoding.png)
+![](OUTPUT/phase_encoding.PNG)
 ### **`The frequancy encoding applied`**
-![](OUTPUT/frequency_encoding.png)
+![](OUTPUT/frequency_encoding.PNG)
 ### **`The full Gui output and real componant of the image after fourier transform`**
-![](OUTPUT/full_gui.png)
+![](OUTPUT/full_gui.PNG)
 ### You also can find another example for 140 Rf pulse in the OUTPUT folder.
 
 # **`DEPENDENCIES`**
